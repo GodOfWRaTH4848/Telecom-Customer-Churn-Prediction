@@ -32,8 +32,8 @@ The objective was to identify customers at high risk of churn, compare ANN model
 
 | Model | Threshold | Accuracy | Precision | Recall | F1 Score |
 |---|---|---|---|---|---|
-| ChurnANN (Complex) | 0.3 | 0.78 | 0.57 | 0.77 | 0.65 |
-| SimpleANN | 0.4 | 0.81 | 0.62 | 0.68 | 0.65 |
+| ChurnANN (Complex) | 0.3 | 0.78 | 0.56 | 0.77 | 0.65 |
+| SimpleANN | 0.4 | 0.81 | 0.63 | 0.69 | 0.66 |
 
 ### Key Observation
 
